@@ -20,6 +20,7 @@
 if ( ! defined( 'ABSPATH' ) ) {
 	define( 'ABSPATH', __DIR__ . '/' );
 }
+/*if method*/
 
 /*
  * The error_reporting() function can be disabled in php.ini. On systems where that is the case,
