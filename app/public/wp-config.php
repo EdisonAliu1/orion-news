@@ -52,6 +52,7 @@ define( 'DB_COLLATE', '' );
 
 
 /**#@-*/
+/*test*/
 
 /**
  * WordPress database table prefix.
